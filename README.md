@@ -2,6 +2,8 @@
 Final Exam for STA 308 Sp2022
 Josh Roach
 
+The material in this repository includes two files that run the same program, one being in R and the other in Python. The csv files are the datasets contained within these programs. Below are my answers to the questions posed in the assignment. 
+
 A. The coefficient of variation is the ratio of the standard deviation to the mean. This gives a figure to reference to compare the relationship between standard deviation and the mean. 
 
 B. The coefficient of variation is highest in the West, meaning that the standard deviation of the unemployment rate change is higher in relation to the mean in the West than the standard deviations in other regions. It is lowest in the South, meaning the standard deviation in the South is lowest in comparison to its mean than any other region. 
